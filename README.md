@@ -5,5 +5,5 @@
 
 下载链接
 ---
-* [汉化文件](https://github.com/J-11/Nuclear-Throne-sch/raw/master/%E6%B1%89%E5%8C%96%E6%96%87%E4%BB%B65.25.zip "汉化文件5.25.zip")`5月25日更新`
+* [汉化文件](https://github.com/J-11/Nuclear-Throne-sch/files/4353252/zh5.25.zip "汉化文件5.25.zip")`5月25日更新`
 * [汉化源文件](https://github.com/J-11/Nuclear-Throne-sch/raw/master/%E6%B1%89%E5%8C%96%2B%E6%BA%90%E6%96%87%E4%BB%B64.28.zip "汉化+源文件4.28.zip")
